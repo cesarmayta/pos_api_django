@@ -7,6 +7,6 @@ python-decouple
 djangorestframework-simplejwt
 #librerias para despliegue en la nube
 gunicorn
-psycopg2
+psycopg2-binary
 dj-database-url
 whitenoise
